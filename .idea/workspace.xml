@@ -32,7 +32,6 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/bogdan_capetown/project",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -65,7 +64,7 @@
       <workItem from="1749071958024" duration="1340000" />
       <workItem from="1749074921262" duration="2690000" />
       <workItem from="1749077695949" duration="4410000" />
-      <workItem from="1749127381715" duration="2015000" />
+      <workItem from="1749127381715" duration="2524000" />
     </task>
     <servers />
   </component>
