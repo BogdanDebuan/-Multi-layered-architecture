@@ -6,17 +6,50 @@
   <component name="ChangeListManager">
     <list default="true" id="0bd97530-9892-49bc-9875-bb4741aecc80" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/phpspec.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/config.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/route.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/ClientCollection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/Collection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/CollectionsFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/DeferredClientCollection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/InvoiceCollection.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Conf.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/AdminController.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Controller/FrontController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/HomeController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data_Mapper/ClientMapper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data_Mapper/InvoiceMapper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data_Mapper/Mapper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data_Mapper/ObjectWatcher.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Domain_Model/Client.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Domain_Model/Invoice.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Domain_Object_Factory/CLientObjectFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Domain_Object_Factory/DomainObjectFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Domain_Object_Factory/InvoiceObjectFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dto/ClientDto.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dto/DtoFactory.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/InitHelperApp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persistence_Factory/ClientPersistenceFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persistence_Factory/InvoicePersistenceFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persistence_Factory/PersitenceFactory.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Registry.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Request/Request/CLIRequest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Request/Request/HttpRequest.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Request/Request/Request.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ResultController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Route.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Services/CreatePdfFile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Services/CreateWordFile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TransactionScript/Base.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/TransactionScript/VenueManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Values_Objects/ClientId.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Values_Objects/InvoiceId.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Controller/FrontControllerTest.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -178,7 +211,7 @@
       <workItem from="1752247700489" duration="72000" />
       <workItem from="1752647152701" duration="345000" />
       <workItem from="1752689693749" duration="6000" />
-      <workItem from="1753103745393" duration="457000" />
+      <workItem from="1753103745393" duration="2132000" />
     </task>
     <servers />
   </component>
