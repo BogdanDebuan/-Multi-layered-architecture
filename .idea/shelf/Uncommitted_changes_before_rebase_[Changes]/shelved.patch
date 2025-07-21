@@ -1,0 +1,379 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"0bd97530-9892-49bc-9875-bb4741aecc80\" name=\"Changes\" comment=\"\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/vcs.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/f.php\" beforeDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ComposerSettings\">\n    <execution />\n  </component>\n  <component name=\"Git.Settings\">\n    <excluded-from-favorite>\n      <branch-storage>\n        <map>\n          <entry type=\"LOCAL\">\n            <value>\n              <list>\n                <branch-info repo=\"$PROJECT_DIR$/megaquiz\" source=\"main\" />\n              </list>\n            </value>\n          </entry>\n        </map>\n      </branch-storage>\n    </excluded-from-favorite>\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"main\" />\n        <entry key=\"$PROJECT_DIR$/megaquiz\" value=\"master\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n    <option name=\"ROOT_SYNC\" value=\"DONT_SYNC\" />\n  </component>\n  <component name=\"HighlightingSettingsPerFile\">\n    <setting file=\"file://$PROJECT_DIR$/Visitor.php\" root0=\"FORCE_HIGHLIGHTING\" root1=\"SKIP_INSPECTION\" />\n  </component>\n  <component name=\"PhpWorkspaceProjectConfiguration\" interpreter_name=\"/bin/php\" />\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 7\n}</component>\n  <component name=\"ProjectId\" id=\"2y08HU5KDpPwXwwbVUJOOtOUAPT\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"RunOnceActivity.git.unshallow\": \"true\",\n    \"git-widget-placeholder\": \"master\",\n    \"last_opened_file_path\": \"/home/bogdan_capetown/project\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"nodejs_package_manager_path\": \"npm\",\n    \"settings.editor.selected.configurable\": \"project.propVCSSupport.DirectoryMappings\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PS-243.25659.45\" />\n        <option value=\"bundled-php-predefined-a98d8de5180a-1ec7b7818973-com.jetbrains.php.sharedIndexes-PS-243.25659.45\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"0bd97530-9892-49bc-9875-bb4741aecc80\" name=\"Changes\" comment=\"\" />\n      <created>1748960042365</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1748960042365</updated>\n      <workItem from=\"1748960043409\" duration=\"3997000\" />\n      <workItem from=\"1748981271359\" duration=\"8000\" />\n      <workItem from=\"1749045250777\" duration=\"7231000\" />\n      <workItem from=\"1749071958024\" duration=\"1340000\" />\n      <workItem from=\"1749074921262\" duration=\"2690000\" />\n      <workItem from=\"1749077695949\" duration=\"4410000\" />\n      <workItem from=\"1749127381715\" duration=\"2524000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State>\n              <option name=\"FILTERS\">\n                <map>\n                  <entry key=\"branch\">\n                    <value>\n                      <list>\n                        <option value=\"HEAD\" />\n                      </list>\n                    </value>\n                  </entry>\n                </map>\n              </option>\n            </State>\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 56444dcd4e5f28b81c49063806e02329452af006)
++++ b/.idea/workspace.xml	(date 1750027161208)
+@@ -5,9 +5,9 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="0bd97530-9892-49bc-9875-bb4741aecc80" name="Changes" comment="">
+-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/VenueManager.php" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/f.php" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/megaquiz" beforeDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -34,7 +34,7 @@
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+         <entry key="$PROJECT_DIR$" value="main" />
+-        <entry key="$PROJECT_DIR$/megaquiz" value="master" />
++        <entry key="$PROJECT_DIR$/megaquiz" value="k" />
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+@@ -52,21 +52,21 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "RunOnceActivity.git.unshallow": "true",
+-    "git-widget-placeholder": "master",
+-    "last_opened_file_path": "/home/bogdan_capetown/project",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
++    &quot;last_opened_file_path&quot;: &quot;/home/bogdan_capetown/php_lesson&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="SharedIndexes">
+     <attachedChunks>
+       <set>
+@@ -90,6 +90,11 @@
+       <workItem from="1749074921262" duration="2690000" />
+       <workItem from="1749077695949" duration="4410000" />
+       <workItem from="1749127381715" duration="2524000" />
++      <workItem from="1749131261424" duration="897000" />
++      <workItem from="1749132174305" duration="4149000" />
++      <workItem from="1749191412006" duration="132000" />
++      <workItem from="1749239777037" duration="15000" />
++      <workItem from="1750018830829" duration="3482000" />
+     </task>
+     <servers />
+   </component>
+Index: Request/HTTPRequest.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Request/HTTPRequest.php b/Request/HTTPRequest.php
+new file mode 100644
+--- /dev/null	(date 1750065018524)
++++ b/Request/HTTPRequest.php	(date 1750065018524)
+@@ -0,0 +1,2 @@
++<?php
++
+Index: Conf.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Conf.php b/Conf.php
+new file mode 100644
+--- /dev/null	(date 1750059510599)
++++ b/Conf.php	(date 1750059510599)
+@@ -0,0 +1,13 @@
++<?php
++class Conf
++{
++    private $conf;
++    public function set($value)
++    {
++        $this->conf = $value;
++    }
++    public function get()
++    {
++        return $this->conf;
++    }
++}
+\ No newline at end of file
+Index: route.yaml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/route.yaml b/route.yaml
+new file mode 100644
+--- /dev/null	(date 1750064739889)
++++ b/route.yaml	(date 1750064739889)
+@@ -0,0 +1,10 @@
++route:
++  home_page:
++    path: /
++    command: DefaultCommand
++  admin_page:
++    path: /admin
++    command: AdminPanelCommand
++  orders_page:
++    path: /admin/{order_name}
++    command: OrdersCommand
+\ No newline at end of file
+Index: src/Controller/Controller.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Controller/Controller.php b/src/Controller/Controller.php
+new file mode 100644
+--- /dev/null	(date 1750067159841)
++++ b/src/Controller/Controller.php	(date 1750067159841)
+@@ -0,0 +1,24 @@
++<?php
++namespace App\Dev\Controller;
++
++class Controller
++{
++    private $reg;
++    private function __construct()
++    {
++       $this->reg = Registry::instance();
++    }
++    public static function run()
++    {
++        $instance = new self();
++        $instance->init();
++    }
++    public function init()
++    {
++        $this->reg->getInitHelperApp()->init();
++    }
++    public function handleRequest()
++    {
++
++    }
++}
+\ No newline at end of file
+Index: Request/Request.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Request/Request.php b/Request/Request.php
+new file mode 100644
+--- /dev/null	(date 1750058780370)
++++ b/Request/Request.php	(date 1750058780370)
+@@ -0,0 +1,8 @@
++<?php
++class Request
++{
++    public function __construct()
++    {
++        $this->initRequest();
++    }
++}
+Index: InitHelperApp.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/InitHelperApp.php b/InitHelperApp.php
+new file mode 100644
+--- /dev/null	(date 1750064739883)
++++ b/InitHelperApp.php	(date 1750064739883)
+@@ -0,0 +1,15 @@
++<?php
++
++class InitHelperApp
++{
++   public function init()
++   {
++       $this->parseConfig();
++
++   }
++   public function parseConfig()
++   {
++       $configDB = yaml_parse_file("config.yaml");
++       $configRoute = yaml_parse_file("route.yaml");
++   }
++}
+\ No newline at end of file
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+--- /dev/null	(date 1750058941985)
++++ b/.gitignore	(date 1750058941985)
+@@ -0,0 +1,1 @@
++/vendor/
+Index: Registry.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Registry.php b/Registry.php
+new file mode 100644
+--- /dev/null	(date 1750067159851)
++++ b/Registry.php	(date 1750067159851)
+@@ -0,0 +1,46 @@
++<?php
++namespace App;
++class Registry
++{
++    private $conf;
++    private static $instance;
++    private $request;
++    public static function instance()
++    {
++        if (is_null(self::$instance)){
++            self::$instance = new self();
++        }
++            return self::$instance;
++    }
++    public function setConf(Conf $conf)
++    {
++        $this->conf = $conf;
++    }
++    public function getConf()
++    {
++        if (is_null($this->conf)){
++            $this->conf = new \Conf();
++        }
++            return $this->conf;
++    }
++    public function getPDO()
++    {
++        return $this->getConf($this->getConf()->get("dsn"));
++    }
++    public function getInitHelperApp()
++    {
++        return new InitHelperApp();
++    }
++    public function setRequest($request)
++    {
++        $this->request = $request;
++    }
++    public function getRequest()
++    {
++        if(isset($this->request)){
++            $this->request = new HTTPrequest();
++        }
++         throw new \Exception();
++    }
++
++}
+\ No newline at end of file
+Index: composer.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/composer.json b/composer.json
+new file mode 100644
+--- /dev/null	(date 1750065333492)
++++ b/composer.json	(date 1750065333492)
+@@ -0,0 +1,15 @@
++{
++    "name": "app/dev",
++    "autoload": {
++        "psr-4": {
++            "App\\Dev\\": "src/"
++        }
++    },
++    "authors": [
++        {
++            "name": "Bogdan",
++            "email": "Bogdanufa2006@gmail.com"
++        }
++    ],
++    "require": {}
++}
+Index: src/VenueManager.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/VenueManager.php b/src/VenueManager.php
+new file mode 100644
+--- /dev/null	(date 1750065535922)
++++ b/src/VenueManager.php	(date 1750065535922)
+@@ -0,0 +1,3 @@
++<?php
++
++
+Index: config.yaml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/config.yaml b/config.yaml
+new file mode 100644
+--- /dev/null	(date 1750060221727)
++++ b/config.yaml	(date 1750060221727)
+@@ -0,0 +1,5 @@
++config:
++    db:
++      dsn:
++      user: root
++      password: BogdanBeccaLoveМВ
+\ No newline at end of file
+Index: index.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/index.php b/index.php
+new file mode 100644
+--- /dev/null	(date 1750065956116)
++++ b/index.php	(date 1750065956116)
+@@ -0,0 +1,4 @@
++<?php
++require __DIR__."/vendor/autoload.php";
++
++\App\Dev\Controller\Controller::run();
+Index: composer.lock
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/composer.lock b/composer.lock
+new file mode 100644
+--- /dev/null	(date 1750059022239)
++++ b/composer.lock	(date 1750059022239)
+@@ -0,0 +1,18 @@
++{
++    "_readme": [
++        "This file locks the dependencies of your project to a known state",
++        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
++        "This file is @generated automatically"
++    ],
++    "content-hash": "bb4421b6622acfaa661922a7f32cffd6",
++    "packages": [],
++    "packages-dev": [],
++    "aliases": [],
++    "minimum-stability": "stable",
++    "stability-flags": {},
++    "prefer-stable": false,
++    "prefer-lowest": false,
++    "platform": {},
++    "platform-dev": {},
++    "plugin-api-version": "2.6.0"
++}

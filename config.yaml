@@ -1,0 +1,3 @@
+    dsn: mysql:host=localhost;dbname=Testing;charset=utf8mb4
+    user: root
+    password: BogdanBeccaLoveМВ
